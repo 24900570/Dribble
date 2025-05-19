@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date: 26-12-2024
+## Date: 19-05-2025
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -162,7 +162,7 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3">
-    <p>&copy; 2024 Dribble. All rights reserved.</p>
+    <p>&copy; 2025 Dribble. All rights reserved.</p>
   </footer>
 </body>
 </html>
@@ -265,7 +265,9 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-26 231119.png>)
+
+![alt text](<Screenshot 2025-05-19 204438.png>)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
